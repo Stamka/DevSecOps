@@ -9,3 +9,17 @@ check /var/lib/etcd
 shold be 700
 
 audit log   
+
+
+pod security policy or
+open policy agent
+
+
+ETCD
+
+etcdctl
+
+
+cipher data in etcd
+
+encryption-provider-config
